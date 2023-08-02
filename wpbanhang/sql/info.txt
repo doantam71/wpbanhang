@@ -1,0 +1,4 @@
+tài khoản
+admin	123
+wordpress 6.2.2
+php 7.2.31
